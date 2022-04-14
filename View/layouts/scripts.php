@@ -1,0 +1,15 @@
+<script src="Assets/js/jquery-3.3.1.min.js"></script>
+<script src="Assets/js/popper.js"></script>
+<script src="Assets/js/bootstrap.min.js"></script>
+<script src="Assets/js/stellar.js"></script>
+<script src="Assets/vendors/lightbox/simpleLightbox.min.js"></script>
+<script src="Assets/vendors/nice-select/js/jquery.nice-select.min.js"></script>
+<script src="Assets/vendors/isotope/imagesloaded.pkgd.min.js"></script>
+<script src="Assets/vendors/isotope/isotope.pkgd.min.js"></script>
+<script src="Assets/vendors/owl-carousel/owl.carousel.min.js"></script>
+<script src="Assets/vendors/popup/jquery.magnific-popup.min.js"></script>
+<script src="Assets/js/jquery.ajaxchimp.min.js"></script>
+<script src="Assets/vendors/counter-up/jquery.waypoints.min.js"></script>
+<script src="Assets/vendors/counter-up/jquery.counterup.js"></script>
+<script src="Assets/js/mail-script.js"></script>
+<script src="Assets/js/theme.js"></script>
